@@ -1,2 +1,6 @@
 .vs/
 Debug/
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.sln
